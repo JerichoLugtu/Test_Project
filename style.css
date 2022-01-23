@@ -1,0 +1,91 @@
+h1{ 
+    text-align: center;
+    font-size: 40px;
+    color: rgb(132, 240, 155);
+    font-family: sans-serif;
+
+    padding: 15px;
+    border:solid rgba(255, 255, 255, 0.493);
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.61);
+
+    margin-left: 20%;
+    margin-right: 20%;
+}
+    
+h1:hover{
+   color: rgb(206, 40, 40);
+   background-color: lightskyblue;
+
+}
+
+.name {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    /* text-transform: capitalize; */
+
+    padding: 10px;
+    border:solid rgba(0, 0, 0, 0.493);
+    border-radius: 30px;
+    background-color: rgba(60, 150, 7, 0.61);
+
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.name:hover {
+    color: rgb(0, 0, 0);
+   background-color: rgb(22, 154, 236);
+}
+
+body{
+    background-image: url("../PHPinVisualStudioCode/Images/bg.jfif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.age {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    /* text-transform: capitalize; */
+
+    padding: 10px;
+    border:solid rgba(0, 0, 0, 0.493);
+    border-radius: 30px;
+    background-color: rgba(60, 150, 7, 0.61);
+
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.age:hover {
+    color: rgb(0, 0, 0);
+   background-color: rgb(22, 154, 236);
+}
+
+
+.school {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    /* text-transform: capitalize; */
+
+    padding: 10px;
+    border:solid rgba(0, 0, 0, 0.493);
+    border-radius: 30px;
+    background-color: rgba(60, 150, 7, 0.61);
+
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+.school:hover {
+    color: rgb(0, 0, 0);
+   background-color: rgb(22, 154, 236);
+}
